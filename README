@@ -16,3 +16,7 @@ several of them using the Restructured Text markup notation.
 Please read the Documentation/process/changes.rst file, as it contains the
 requirements for building and running the kernel, and information about
 the problems which may result by upgrading your kernel.
+
+This is a test of referencing code by value here:
+
+https://github.com/jflam/linux/blob/0b1dcc2cf55ae6523c6fbd0d741b3ac28c9f4536/fs/adfs/dir.c#LL17-L40C2
